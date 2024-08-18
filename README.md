@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Pranav Shekar</h1>
+<h1 align="center">Hi 👋, I'm Pranav Sherkar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavsherkar12" alt="pranavsherkar12" /></a> </p>
