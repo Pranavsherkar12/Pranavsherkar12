@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I’m currently learning **Core Java**
 
 - 📄 Know about my experiences [amber-janice-54.tiiny.site/](amber-janice-54.tiiny.site/)
 
