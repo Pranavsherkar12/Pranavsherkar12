@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pranavsherkar1@gmail.com**
 
-- 📄 Know about my experiences [(https://shorturl.at/lTeo2)]
+- 📄 Know about my experiences (https://shorturl.at/lTeo2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
